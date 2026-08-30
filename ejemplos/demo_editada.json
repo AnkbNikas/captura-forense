@@ -1,0 +1,24 @@
+{
+  "archivo": "captura_generica_editada.jpg",
+  "metadatos": {
+    "formato": "JPEG",
+    "modo_color": "RGB",
+    "dimensiones": [
+      1080,
+      500
+    ],
+    "tamano_bytes": 34923,
+    "exif": {
+      "Software": "Adobe Photoshop 26.0",
+      "DateTime": "2026:08:29 23:47:12"
+    }
+  },
+  "plausibilidad": {
+    "coincide_resolucion_conocida": null,
+    "tiene_metadatos_de_camara": false
+  },
+  "software_edicion_detectado": [
+    "photoshop"
+  ],
+  "ela_max_diff": 25
+}
