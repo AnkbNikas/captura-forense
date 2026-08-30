@@ -1,0 +1,19 @@
+{
+  "archivo": "captura_generica_sin_editar.png",
+  "metadatos": {
+    "formato": "PNG",
+    "modo_color": "RGB",
+    "dimensiones": [
+      1080,
+      500
+    ],
+    "tamano_bytes": 13635,
+    "exif": {}
+  },
+  "plausibilidad": {
+    "coincide_resolucion_conocida": null,
+    "tiene_metadatos_de_camara": false
+  },
+  "software_edicion_detectado": [],
+  "ela_max_diff": 52
+}
